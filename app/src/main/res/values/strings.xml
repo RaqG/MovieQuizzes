@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name" translatable="false">MoviesQuizzes</string>
+    <string name="welcome">Seja Bem-vindo(a)</string>
+    <string name="MoviesQuizzes" translatable="false">Movies Quizzes</string>
+    <string name="play">Jogar</string>
+    <string name="answer">Responder</string>
+    <string name="almost_right_answer">Quase acertou tudo! Você está com </string>
+    <string name="right_answer">Acertou! Você está com </string>
+    <string name="wrong_answer">Errou! Você está com </string>
+    <string name="points"> pontos</string>
+
+    <!-- Questions -->
+    <string name="first_question">Quais desses atores pertencem ao filme Piratas do Caribe - A Maldição do Pérola Negra?</string>
+    <string name="second_question">Qual dessas atrizes ganhou o Oscar de melhor atriz em 2014?</string>
+    <string name="third_question">Qual desses personagens não pertence ao mundo Star Wars?</string>
+    <string name="fourth_question">Qual dessas pessoas foi o(a) apresentador(a) do Oscar de 2015?</string>
+    <string name="fifth_question">Qual desses filmes é do gênero Suspense?</string>
+    <string name="sixth_question">Quais desses filmes são baseados em livros?</string>
+    <string name="seventh_question">Quais filmes Quentin Tarantino dirigiu?</string>
+    <string name="eighth_question">Em que ano foi lançado Star Wars: Episódio IV - Uma Nova Esperança?</string>
+
+    <!-- Answers -->
+    <string name="first_answer_question_1" translatable="false">Keira Knightley</string>
+    <string name="second_answer_question_1" translatable="false">Ian McKellen</string>
+    <string name="third_answer_question_1" translatable="false">Johnny Depp</string>
+    <string name="fourth_answer_question_1" translatable="false">Hugh Jackman</string>
+    <string name="fifth_answer_question_1" translatable="false">Orlando Bloom</string>
+
+    <string name="first_answer_question_2" translatable="false">Sandra Bullock</string>
+    <string name="second_answer_question_2" translatable="false">Cate Blanchett</string>
+    <string name="third_answer_question_2" translatable="false">Meryl Streep</string>
+    <string name="fourth_answer_question_2" translatable="false">Amy Adams</string>
+    <string name="fifth_answer_question_2" translatable="false">Judy Dench</string>
+
+    <string name="first_answer_question_3" translatable="false">Padmé Amidala</string>
+    <string name="second_answer_question_3" translatable="false">Sarek</string>
+    <string name="third_answer_question_3" translatable="false">Jar Jar Binks</string>
+    <string name="fourth_answer_question_3" translatable="false">Mace Windu</string>
+    <string name="fifth_answer_question_3" translatable="false">Stormtrooper</string>
+
+    <string name="first_answer_question_4" translatable="false">Neil Patrick Harris</string>
+    <string name="second_answer_question_4" translatable="false">Ellen DeGeneres</string>
+    <string name="third_answer_question_4" translatable="false">Anne Hathaway</string>
+    <string name="fourth_answer_question_4" translatable="false">Seth MacFarlane</string>
+    <string name="fifth_answer_question_4" translatable="false">Jimmy Kimmel</string>
+
+    <string name="first_answer_question_5">Jurassic Park</string>
+    <string name="second_answer_question_5">Missão Impossível</string>
+    <string name="third_answer_question_5">Piratas do Caribe</string>
+    <string name="fourth_answer_question_5">Jogos Vorazes</string>
+    <string name="fifth_answer_question_5">Plano de Voo</string>
+
+    <string name="first_answer_question_6">O Planeta dos Macacos</string>
+    <string name="second_answer_question_6">Jogos Vorazes</string>
+    <string name="third_answer_question_6">O Iluminado</string>
+    <string name="fourth_answer_question_6">O Pai da Noiva</string>
+    <string name="fifth_answer_question_6">Sexta-Feira Muito Louca</string>
+
+    <string name="first_answer_question_7">O Iluminado; Bastardos Inglórios; Pulp Fiction</string>
+    <string name="second_answer_question_7">Pulp Fiction; Bastardos Inglórios; Tubarão</string>
+    <string name="third_answer_question_7">Os Oitos Odiados; Django Livre; Cães de Aluguel</string>
+    <string name="fourth_answer_question_7">Django Livre; Taxi Driver; Os Infiltrados</string>
+    <string name="fifth_answer_question_7">Nenhuma das Anteriores</string>
+
+    <string name="first_answer_question_8" translatable="false">1971</string>
+    <string name="second_answer_question_8" translatable="false">1980</string>
+    <string name="third_answer_question_8" translatable="false">1977</string>
+    <string name="fourth_answer_question_8" translatable="false">1975</string>
+    <string name="fifth_answer_question_8">Nenhuma das Anteriores</string>
+    <string name="checkbox" translatable="false">Checkbox</string>
+    <string name="radioButton" translatable="false">RadioButton</string>
+    <string name="point">ponto.</string>
+    <string name="finalScore">Pontuação Final:</string>
+    <string name="goodHits">Parabéns! Você acertou</string>
+    <string name="badHits">Que pena! Você só acertou</string>
+    <string name="of">de</string>
+    <string name="questions">questões.</string>
+    <string name="restart">Reiniciar</string>
+
+</resources>

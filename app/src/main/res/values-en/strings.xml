@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoviesQuizzes</string>
+    <string name="welcome">You\'re welcome!</string>
+    <string name="play">Play</string>
+    <string name="answer">Answer</string>
+    <string name="first_question">Which of these actors belong to the movie Pirates of the Caribbean: The Curse of the Black Pearl?</string>
+    <string name="first_answer_question_5">Jurassic Park</string>
+    <string name="second_answer_question_5">Mission: Impossible</string>
+    <string name="third_answer_question_5">Pirates of Caribbean</string>
+    <string name="fourth_answer_question_5">Hunger Games</string>
+    <string name="fifth_answer_question_5">Flight Plan</string>
+    <string name="first_answer_question_6">Planet of the Apes</string>
+    <string name="second_answer_question_6">Hunger Games</string>
+    <string name="third_answer_question_6">The Shining</string>
+    <string name="fourth_answer_question_6">Father of the Bride</string>
+    <string name="fifth_answer_question_6">Freaky Friday</string>
+    <string name="fifth_answer_question_7">" None of the Previous"</string>
+    <string name="fifth_answer_question_8">" None of the Previous"</string>
+    <string name="second_question">Which of these actresses won the Oscar for best actress in 2014?</string>
+    <string name="third_question">"Which of these characters does not belong to the Star Wars world? "</string>
+    <string name="fourth_question">Which of these people was the 2015 Oscar presenter?</string>
+    <string name="fifth_question">Which of these films is of the suspense genre?</string>
+    <string name="sixth_question">Which of these movies are based on books?</string>
+    <string name="seventh_question">Which of these movies did Quentin Tarantino direct?</string>
+    <string name="first_answer_question_7">The Shining; Inglourious Basterds; Pulp Fiction</string>
+    <string name="second_answer_question_7">Pulp Fiction; Inglourious Basterds; Jaws</string>
+    <string name="third_answer_question_7">The Hateful Eight; Django Unchained; Reservoir Dogs</string>
+    <string name="fourth_answer_question_7">Django Unchained; Taxi Driver; The Departed</string>
+    <string name="eighth_question">" In what year was it release the movie Star Wars: Episode IV - A New Hope?"</string>
+    <string name="almost_right_answer">Almost hit it! You have</string>
+    <string name="right_answer">Hit it! You have</string>
+    <string name="wrong_answer">It is wrong! You have</string>
+    <string name="points">points</string>
+    <string name="point">point.</string>
+    <string name="finalScore">Final score:</string>
+    <string name="goodHits">Congratulations! You got</string>
+    <string name="badHits">What a pity! You\'ve only hit</string>
+    <string name="of">of</string>
+    <string name="questions">questions.</string>
+    <string name="restart">Restart</string>
+</resources>
